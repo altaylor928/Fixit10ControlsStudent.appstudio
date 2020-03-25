@@ -27,6 +27,24 @@
         "Elements",
         "btnLogin.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "loginCU",
+        "Elements",
+        "btnFood.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "loginCU",
+        "Elements",
+        "lblResponse.json"
+      ]
     }
   ],
   "class": "",
