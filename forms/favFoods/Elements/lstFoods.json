@@ -15,7 +15,7 @@
   "fontSize": "",
   "fontStyle": "",
   "fontWeight": "",
-  "height": "auto",
+  "height": 3,
   "hidden": "",
   "icons": "",
   "id": "lstFoods",
@@ -50,6 +50,6 @@
   "right": "38",
   "script": "",
   "style": "",
-  "top": 37,
+  "top": 32,
   "width": "180px"
 }
