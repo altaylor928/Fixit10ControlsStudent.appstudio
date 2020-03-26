@@ -1,4 +1,4 @@
-let req1 = [ ]
+let req1 = []
 
 btnLogin.onclick=function(){
   req1 = Ajax("http://radlab.creighton.edu/appStudio/authLDAP.php", "POST", "j_username=" + inptNetID.value + "&j_password=" + inptPassword.value)
