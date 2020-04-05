@@ -9,6 +9,7 @@ ABfavExercises.onshow=function(){
   // put array of desserts in the dropdown
   for(i=0; i<= exercises.length -1; i++)
   selExercises.addItem(exercises[i]) 
+
 }
 
 selExercises.onfocusout=function(){

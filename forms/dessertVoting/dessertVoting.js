@@ -1,7 +1,7 @@
 var dessertList = ['Chocolate Cake','Cream Brulee','Cheesecake',
                   'Keylime Pie','Cherry Cobbler','Chocolate Chip Cookies']
 
-// populate the list using dessert array
+
 dessertVoting.onshow=function(){
     // always clear before populating
     drpDesserts.clear()   
