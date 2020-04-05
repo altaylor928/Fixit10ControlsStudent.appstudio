@@ -34,7 +34,7 @@
         "forms",
         "describeYou",
         "Elements",
-        "lblReponse2.json"
+        "lblResponse2.json"
       ]
     },
     {
@@ -44,15 +44,6 @@
         "describeYou",
         "Elements",
         "btnFavExercises.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "describeYou",
-        "Elements",
-        "btnSubmit.json"
       ]
     }
   ],
