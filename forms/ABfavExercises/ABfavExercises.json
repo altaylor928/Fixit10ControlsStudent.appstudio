@@ -27,6 +27,24 @@
         "Elements",
         "btnMobileNav.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ABfavExercises",
+        "Elements",
+        "btnExercises.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ABfavExercises",
+        "Elements",
+        "modMessage.json"
+      ]
     }
   ],
   "class": "",

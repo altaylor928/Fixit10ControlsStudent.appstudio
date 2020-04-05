@@ -14,7 +14,7 @@ lstFoods.onclick=function(goodFoods){
     return
   } else {
   let textChoice = NSB.$("lstFoods_" + goodFoods).textContent
-  lbl.Message.value = `You picked ${textChoice} - that is a great choice!`
+  lblMessage.value = `You picked ${textChoice} - that is a great choice!`
  }
 }
 

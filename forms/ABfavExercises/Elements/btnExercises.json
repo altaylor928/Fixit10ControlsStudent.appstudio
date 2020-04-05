@@ -28,8 +28,8 @@
   "hidden": "",
   "icon": "",
   "iconTitle": "",
-  "id": "btnDessert",
-  "left": 195,
+  "id": "btnExercises",
+  "left": 225,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 425,
-  "value": "dessertVoting",
+  "top": 283,
+  "value": "Select",
   "width": "auto"
 }

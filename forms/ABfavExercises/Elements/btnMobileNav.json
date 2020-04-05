@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnMobileNav",
-  "left": 194,
+  "left": 211,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 309,
+  "top": 414,
   "value": "MobileNav",
   "width": "auto"
 }

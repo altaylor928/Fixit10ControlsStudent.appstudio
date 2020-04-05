@@ -1,7 +1,7 @@
 var dessertList = ['Chocolate Cake','Cream Brulee','Cheesecake',
-                  'Keyline Pie','Cherry Cobbler','Chocolate Chip Cookies']
+                  'Keylime Pie','Cherry Cobbler','Chocolate Chip Cookies']
 
-// populate the list using dessertarray
+
 dessertVoting.onshow=function(){
     // always clear before populating
     drpDesserts.clear()   
@@ -10,16 +10,16 @@ dessertVoting.onshow=function(){
     drpDesserts.addItem(dessertList[i])
 }
 
-
-drpDesserts.onclick=function(dessertList){
-    if (typeof(dessertList) == "object")   
-      return                    
-    else {  // the user picked something
-       let textDessert = NSB.$("drpDesserts_" + dessertList).textContent
-       lbl.Message1.value = (`You picked ${textDessert} - that is a great choice!`)
-    }
+drpDesserts.onclick=function(s){
+  if (typeof(s) == "object"){  // means control clicked but no selection made yet
+    return                     // do nothing
+  } else {
+    drpDesserts.value = s   // make dropdown show choice user made
+    lblMessage1.value = `You picked ${s} - that is a great choice!`
+  }
 }
 
 btnYou.onclick=function () {
 ChangeForm(describeYou)
 }
+

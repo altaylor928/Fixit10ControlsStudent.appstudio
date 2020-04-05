@@ -1,6 +1,6 @@
 {
   "!type": "Listgroup_bs4",
-  "appearances": "monochrome",
+  "appearances": "primary\nsecondary\nsuccess\ndanger \nlight\nwarning",
   "backgroundColor": "",
   "bottom": "auto",
   "cached_js": "",
@@ -15,13 +15,13 @@
   "fontSize": "",
   "fontStyle": "",
   "fontWeight": "",
-  "height": "auto",
+  "height": 3,
   "hidden": "",
   "icons": "",
   "id": "lstFoods",
   "itemBadges": "1\n2\n3\n4\n5\n6",
   "items": "",
-  "left": "38",
+  "left": 29,
   "listStyle": "div",
   "mAll": "",
   "mBottom": "",
@@ -50,6 +50,6 @@
   "right": "38",
   "script": "",
   "style": "",
-  "top": 37,
+  "top": 38,
   "width": "180px"
 }
